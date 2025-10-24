@@ -1,2 +1,6 @@
 # byeong-test
-hi ! this is test
+안녕하세요 ! 
+저는 이병천이라고 합니다
+
+날씨가 좋네요~
+
